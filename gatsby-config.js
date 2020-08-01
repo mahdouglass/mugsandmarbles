@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Mugs and Marbles`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Mugs and Marbles.`,
+      summary: `A site that focuses on code and more code.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `Mugs and Marbles' blog`,
+    siteUrl: `https://mugsandmarbles.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `mahdouglass`,
     },
   },
   plugins: [
